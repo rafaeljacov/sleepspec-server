@@ -1,0 +1,3 @@
+[submodule "strf-like-model"]
+	path = strf-like-model
+	url = https://github.com/EtienneTho/strf-like-model.git

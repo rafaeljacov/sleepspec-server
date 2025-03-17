@@ -1,0 +1,1 @@
+Flask server responsible for hosting the SVM-based sleep deprivation detection model used by the SleepSpec mobile application. It handles incoming audio data, processes it, and returns the model’s predictions in real-time.

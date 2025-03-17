@@ -1,0 +1,27 @@
+# # Ignore directories
+#
+# # preprocess/processed_audio/
+# processed_audio/
+# preprocessed_audio/
+#
+#
+# # Ignore compiled Python files
+# __pycache__/
+# *.pyc
+#
+# # Ignore all `.wav` and `.mp3` files
+# *.wav
+# *.mp3
+# *.m4a
+#
+# # Ignore `.pkl` files (Pickle files)
+# *.pkl
+#
+# # Ignore logs and temporary files
+# *.log
+# *.tmp
+#
+# # Ignore backup or hidden system files (Mac & Linux)
+# .DS_Store
+# Thumbs.db
+# __pycache__/
